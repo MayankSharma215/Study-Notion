@@ -163,7 +163,7 @@ const Footer = () => {
           </div>
 
           <div className="text-center">
-            Made by Sarthak Kapoor © {year} Studynotion
+            Made by Mayank Sharma © {year} Studynotion
           </div>
         </div>
       </div>

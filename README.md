@@ -35,7 +35,7 @@ StudyNotion follows a client-server architecture:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Sarthak2152/StudyNotion.git
+   git clone https://github.com/MayankSharma215/Study-Notion
    ```
 2. Install dependencies:
    ```sh
